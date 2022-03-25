@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-stayFocused/static/css/main.d575340c.css",
+    "main.js": "/react-stayFocused/static/js/main.3fd9566e.js",
+    "static/media/reading.png": "/react-stayFocused/static/media/reading.c5d3aa144d24f0b19e4e.png",
+    "static/media/github.png": "/react-stayFocused/static/media/github.389f1e570b67e3e3b2a4.png",
+    "static/media/cat.png": "/react-stayFocused/static/media/cat.9df8cfe684eef7887e8e.png",
+    "static/media/gmail.png": "/react-stayFocused/static/media/gmail.168531d6bbe6324895ea.png",
+    "static/media/tele.png": "/react-stayFocused/static/media/tele.3f0dc33ab8dd25cfce08.png",
+    "static/media/lotusPose.png": "/react-stayFocused/static/media/lotusPose.8982418cb0a50bb44f37.png",
+    "static/media/whatsapp.png": "/react-stayFocused/static/media/whatsapp.2494f8b8ccb6c8e83082.png",
+    "index.html": "/react-stayFocused/index.html",
+    "main.d575340c.css.map": "/react-stayFocused/static/css/main.d575340c.css.map",
+    "main.3fd9566e.js.map": "/react-stayFocused/static/js/main.3fd9566e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d575340c.css",
+    "static/js/main.3fd9566e.js"
+  ]
+}
